@@ -96,7 +96,7 @@ AstroFluid/
 
 Simulation frames are exported as VTK files and can be visualized using **ParaView** or **VisIt**.
 
-![Gas Cloud](images/internal_energy_single_gas_01.png)
+![Gas Cloud](images/Internal_energy_single_gas_01.png)
 
 ---
 
