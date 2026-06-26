@@ -1,0 +1,19 @@
+# =============================================
+# AstroFluid — .gitignore (Initial commit)
+# =============================================
+
+# Build
+build/
+
+# .vtk outputs
+*.vtk
+
+# macOs
+.DS_Store
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
